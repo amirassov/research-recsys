@@ -11,13 +11,13 @@
 
 Для более подробного понимания задачи прочитал несколько статей:
 
-1. [Steerable Playlist Generation by Learning Song Similarity from Radio Station Playlists (2009)](https://github.com/amirassov/research-recsys/tree/master/papers/https://github.com/amirassov/research-recsys/blob/master/papers/STEERABLE%20PLAYLIST%20GENERATION%20BY%20LEARNING%20SONG%20SIMILARITY%20FROM%20RADIO%20STATION%20PLAYLISTS%20(2009).pdf)
+1. [Steerable Playlist Generation by Learning Song Similarity from Radio Station Playlists (2009)](https://github.com/amirassov/research-recsys/blob/master/papers/STEERABLE%20PLAYLIST%20GENERATION%20BY%20LEARNING%20SONG%20SIMILARITY%20FROM%20RADIO%20STATION%20PLAYLISTS%20(2009).pdf)
 Основная идея статьи заключается в обучении классификатора на датасете, где объектами являются пары/тройки песен, а ответы равны единице, если эти песни встречаются вместе в каком-нибудь плейлисте и нулю, иначе. В качестве признаков используются аудиопризнаки. 
 
 2. [Automated generation of music playlists. Survey and experiments (2014)](https://github.com/amirassov/research-recsys/blob/master/papers/Automated%20generation%20of%20music%20playlists.%20Survey%20and%20experiments%20(2014).pdf)
 Дается обзор методам генераций плейлистов. Многие описанные алгоритмы можно использовать как начальный бейзлайн.
 
-3. [Exploiting Music Play Sequence for Music Recommendation (2017) (2017)](https://github.com/amirassov/research-recsys/blob/master/papers/Exploiting%20Music%20Play%20Sequence%20for%20Music%20Recommendation%20(2017).pdf), [Sequence-based context-aware music recommendation](https://github.com/amirassov/research-recsys/blob/master/papers/Sequence-based%20context-aware%20music%20recommendation%20(2017).pdf)
+3. [Exploiting Music Play Sequence for Music Recommendation (2017)](https://github.com/amirassov/research-recsys/blob/master/papers/Exploiting%20Music%20Play%20Sequence%20for%20Music%20Recommendation%20(2017).pdf), [Sequence-based context-aware music recommendation (2017)](https://github.com/amirassov/research-recsys/blob/master/papers/Sequence-based%20context-aware%20music%20recommendation%20(2017).pdf)
 Предложены методы song2vec, music2vec, которые являются аналогоми алгоритма word2vec.
 
 4. [Learning to embed music and metadata for context-aware music recommendation (2017)](https://github.com/amirassov/research-recsys/blob/master/papers/Learning%20to%20embed%20music%20and%20metadata%20for%20context-aware%20music%20recommendation%20(2017).pdf)
